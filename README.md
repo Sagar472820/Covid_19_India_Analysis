@@ -59,28 +59,28 @@ To enhance comprehension, the following visualizations will be created using Tab
 ### Dashboards
 
 #### State-wise Covid Cases
-     Visualization: Line Chart.
+     Visualization: Line Chart
 
 #### State-wise Covid Cases by Age
-     Visualization: Donut Chart.
+     Visualization: Donut Chart
 
 ### State-wise Testing Details
-    Visualization: Bar Chart.
+    Visualization: Bar Chart
 
 ### Gender-wise Covid Cases
-    Visualization: Donut Chart.
+    Visualization: Donut Chart
 
 ### ICMR Testing by State
-    Visualization: Bar Chart.
+    Visualization: Bar Chart
 
 ### First vs. Second Vaccination Administration
-    Visualization: Bar Chart.
+    Visualization: Bar Chart
 
 ### Vaccine Administration by Type
-    Visualization: Bar Chart.
+    Visualization: Bar Chart
 
 ### Total Deaths by State
-    Visualization: Geospatial Map.
+    Visualization: Geospatial Map
 
      
      

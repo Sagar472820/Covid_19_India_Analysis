@@ -17,52 +17,70 @@ The data sources include the Ministry of Health and Family Welfare (MoHFW), Indi
      States with the highest case distribution in each age group.
      Key trends in age-related vulnerability.     
 
-### 3. State-wise Vaccination
-#### Data Summary
-     Total vaccines administered in each state.
-     Vaccination percentages relative to state populations.
-     Progress in reaching immunization targets.
-
-### 4. State-wise Testing Details
+### 3. State-wise Testing Details
 #### Data Summary
      Total tests conducted per state.
      Positivity rates.
      Correlation between testing volume and case detection rates.
 
-### 5. Gender-wise Covid Cases
+### 4. Gender-wise Covid Cases
 #### Data Summary
      Distribution of cases among males, females, and other genders.
      Trends in gender-specific infection rates.
 
-### 6. ICMR Testing by State
+### 5. ICMR Testing by State
 #### Data Summary
      Total ICMR-led testing volumes per state.
      Efficiency and accuracy of testing protocols.
      Contribution of ICMR testing to overall case detection.
 
-### 7. First vs. Second Vaccination Administration
+### 6. First vs. Second Vaccination Administration
 #### Data Summary
      Comparison of first-dose and second-dose administration.
      States with the highest and lowest second-dose coverage.
      Factors affecting vaccine uptake.
 
-### 8. Vaccine Administration by Type
+### 7. Vaccine Administration by Type
 #### Data Summary
      Distribution of CoviShield, Covaxin, and Sputnik V across states.
      Trends in preference for specific vaccines.
      Impact of vaccine availability on coverage.     
 
-### 9. Total Deaths by State
+### 8. Total Deaths by State
 #### Data Summary
      State-wise mortality figures.
      Analysis of case fatality rates.
      Trends in death rates over time.
 
-### 10. Covid Cases by State (Time Series)
-#### Data Summary
-     Historical trends in daily and cumulative cases.
-     Key turning points during the pandemic.
-     States with significant surges or declines in cases.
+## Visualization Plan
+
+To enhance comprehension, the following visualizations will be created using Tableau:
+
+### Dashboards
+
+#### State-wise Covid Cases
+     Visualization: Line Chart.
+
+#### State-wise Covid Cases by Age
+     Visualization: Donut Chart.
+
+### State-wise Testing Details
+    Visualization: Bar Chart.
+
+### Gender-wise Covid Cases
+    Visualization: Donut Chart.
+
+### ICMR Testing by State
+    Visualization: Bar Chart.
+
+### First vs. Second Vaccination Administration
+    Visualization: Bar Chart.
+
+### Vaccine Administration by Type
+    Visualization: Bar Chart.
+
+### Total Deaths by State
+    Visualization: Geospatial Map.
 
      
      

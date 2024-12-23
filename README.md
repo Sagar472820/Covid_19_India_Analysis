@@ -86,6 +86,15 @@ To enhance comprehension, the following visualizations will be created using Tab
 ### Total Deaths by State
     Visualization: Geospatial Map
 
+## Dashboard Interaction
+
+<a href="https://public.tableau.com/app/profile/sagar.gaikwad1910/viz/Covid19_India_17271399515040/Dashboard1?publish=yes"> Tableau Dashboard </a>
+
+## Dashboard Review
+
+![Covid_19_India_Dash](https://github.com/user-attachments/assets/8b62163d-7280-4f5e-b0cc-d603509821c4)
+
+
 ## Final Conclusion
 
 This report highlights the multifaceted impact of Covid-19 across India, providing actionable insights into case distribution, vaccination progress, testing efficiency, and demographic trends.
